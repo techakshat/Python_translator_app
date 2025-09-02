@@ -1,6 +1,7 @@
 streamlit
 docx2pdf
 python-pptx
+python-docx
 deep-translator
 langdetect
 pandas
