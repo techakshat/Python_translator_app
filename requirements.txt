@@ -1,0 +1,12 @@
+streamlit
+docx2pdf
+python-pptx
+deep-translator
+langdetect
+pandas
+PyPDF2
+reportlab
+pdf2image
+pytesseract
+pillow
+pypdfium2
